@@ -6,15 +6,14 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Seonhye Im
-title: Major in Big Data
+name: 개발을 공부중인 대학생입니다.
+title: computer engineering
 email: sh041213@daum.net
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
 github: https://github.com/seonhye12
 # website_title: Web (Website title override)
-instagram : @xeonhye
 
 # Dark Mode (true/false/never)
 darkmode: false
