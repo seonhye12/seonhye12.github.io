@@ -12,10 +12,9 @@ email: sh041213@daum.net
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: https://seonhye12.github.io/
+github: https://github.com/seonhye12
 # website_title: Web (Website title override)
 instagram : @xeonhye
-blog : https://blog.naver.com/99snow
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -52,17 +51,17 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: C:\cafe.jpg (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  WELCOME!
-  My name is Seonhye Im. 
-  I am majoring in <mark>big data</mark>in the department of software.
-  , this supports markdown, so you can add [links](http://foobar.com)
+  안녕하세요!
+  소프트웨어 학부에서 빅데이터를 전공하고 있는 대학생입니다.
+  제 깃허브에 놀러오세요 [My github](https://github.com/seonhye12)
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
+    - JAVA
+    - C
+    - Python
+    - Ubuntu
+    - Latex
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
