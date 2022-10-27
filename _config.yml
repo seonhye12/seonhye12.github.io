@@ -12,7 +12,7 @@ email: sh041213@daum.net
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://seonhye12.github.io/ (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -20,12 +20,12 @@ darkmode: false
 
 # Social links
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  seonhye12
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
 facebook_username: jekyll
 flickr_username: jekyll
-instagram_username: jekyll
+instagram_username: xeonhye
 linkedin_username: jekyll
 xing_username: jekyll
 pinterest_username: jekyll
